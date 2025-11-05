@@ -15,7 +15,7 @@ const CLAVE_GASTOS = 'gastoapp_gastos';
 const CLAVE_TOKEN = 'gastoapp_token';
 const GASTOS_INICIALES = [
   { id: 1, descripcion: 'Café de la mañana', monto: 4000.00, categoria: 'Comida' },
-  { id: 2, descripcion: 'Boleto de obnibus', monto: 1200, categoria: 'Transporte' },
+  { id: 2, descripcion: 'Boleto de ómnibus', monto: 1200, categoria: 'Transporte' },
   { id: 3, descripcion: 'Factura de internet', monto: 31000.00, categoria: 'Servicios' },
   { id: 4, descripcion: 'Cena con amigos', monto: 27000.00, categoria: 'Ocio' },
 ];
